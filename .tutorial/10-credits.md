@@ -20,7 +20,7 @@ https://x.com/niftynei
 - Thanks for helping me test this workshop!
 - Special thanks to:
   - Frank
-  - Chris
-  - Jorge
+  - Chris R.
+  - Jorge M. O.
 
 https://x.com/btc_ln_gdl
