@@ -2,6 +2,7 @@
 
 - If you're doing this tutorial at the btc++ conference in Berlin on Friday, October 6, 2023, I've already set up a VPS for you to use in this workshop.
 - If you're doing this tutorial sometime later, you can use any NixOS machine. The config will be a bit different since the tutorial uses a config tailored to DigitalOcean. Reach out to me and I'll be happy to help you set it up :)
+- If you just want to do the same thing I did with `terraform` and `morph`, follow [this excellent tutorial](https://justinas.org/nixos-in-the-cloud-step-by-step-part-1). The files I used for Terraform and Morph are included in [the github repo for the current tutorial](https://github.com/chrisguida/Deploying-Your-First-NixOS-Machine).
 
 # Exercise: Generate and switch to a new config
 
