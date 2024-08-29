@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Cln"
+order: 4
+---
+
+
 # CLN
 
 - In this section we install and sync `lightningd` (aka [Core Lightning](https://github.com/ElementsProject/lightning), aka CLN) on our NixOS box!

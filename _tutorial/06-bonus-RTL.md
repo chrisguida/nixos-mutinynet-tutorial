@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Bonus Rtl"
+order: 6
+---
+
+
 # BONUS: Ride The Lightning
 
 - In this section we wil install and use Ride The Lightning (RTL)!

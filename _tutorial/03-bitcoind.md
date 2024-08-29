@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Bitcoind"
+order: 3
+---
+
+
 # Bitcoind
 
 - In this section we install and sync `bitcoind` on our NixOS box!

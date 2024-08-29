@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Required Cleanup"
+order: 10
+---
+
+
 # REQUIRED: Cleanup
 
 - In this section we will withdraw all our play money from our nodes and close all our channels.

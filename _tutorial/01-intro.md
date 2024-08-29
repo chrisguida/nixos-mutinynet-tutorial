@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Intro"
+order: 1
+---
+
+
 #  Deploying Your First NixOS Machine
 
 Speaker: [Chris Guida](https://github.com/chrisguida)<br>

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Bonus Zeus"
+order: 9
+---
+
+
 # BONUS: Zeus Wallet
 
 - In this section we will install and use the [Zeus mobile wallet](https://zeusln.com/) to access and control our CLN node.

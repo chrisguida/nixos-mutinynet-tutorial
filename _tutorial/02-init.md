@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Init"
+order: 2
+---
+
+
 # Set up your NixOS VPS
 
 - If you're doing this tutorial at the btc++ conference in Berlin on Friday, October 6, 2023, I've already set up a VPS for you to use in this workshop.

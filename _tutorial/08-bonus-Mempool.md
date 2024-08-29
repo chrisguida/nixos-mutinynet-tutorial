@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Bonus Mempool"
+order: 8
+---
+
+
 # BONUS: Mempool
 
 - In this section we wil install and use Mempool.space (Mempool).

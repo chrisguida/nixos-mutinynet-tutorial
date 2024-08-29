@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Credits"
+order: 11
+---
+
+
 # Credits!
 
 ## Special thanks to:

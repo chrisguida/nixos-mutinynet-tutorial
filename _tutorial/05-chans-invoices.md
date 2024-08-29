@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Chans Invoices"
+order: 5
+---
+
+
 # Fun with opening channels and paying invoices
 
 - In this section we open channels with our fellow mutinynet lightning node operators and send each other off-chain mutinysats!

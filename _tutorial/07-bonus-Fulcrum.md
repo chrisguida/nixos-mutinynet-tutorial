@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Bonus Fulcrum"
+order: 7
+---
+
+
 # BONUS: Fulcrum
 
 - In this section we wil install and use Fulcrum.
