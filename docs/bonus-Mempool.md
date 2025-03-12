@@ -1,13 +1,12 @@
 ---
-layout: default
 title: "Bonus Mempool"
-order: 8
+sidebar_position: 8
 ---
 
 
 # BONUS: Mempool
 
-- In this section we wil install and use Mempool.space (Mempool).
+- In this section we will install and use Mempool.space (Mempool).
 - Mempool is a pretty and functional block explorer
 
 # Exercise: Install and run Mempool

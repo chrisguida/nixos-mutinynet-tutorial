@@ -1,13 +1,12 @@
 ---
-layout: default
 title: "Bonus Rtl"
-order: 6
+sidebar_position: 6
 ---
 
 
 # BONUS: Ride The Lightning
 
-- In this section we wil install and use Ride The Lightning (RTL)!
+- In this section we will install and use Ride The Lightning (RTL)!
 - RTL is a webapp GUI for lightning nodes.
 - It is compatible with LND, CLN, and Eclair.
 - We're using it with CLN, of course.

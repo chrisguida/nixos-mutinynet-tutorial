@@ -1,13 +1,12 @@
 ---
-layout: default
 title: "Bonus Fulcrum"
-order: 7
+sidebar_position: 7
 ---
 
 
 # BONUS: Fulcrum
 
-- In this section we wil install and use Fulcrum.
+- In this section we will install and use Fulcrum.
 - Fulcrum is a high-performance full-index personal electrum server.
 - You can use it as the backend for many wallet, including Sparrow and Electrum.
 - We'll try it with Sparrow in this section.
@@ -60,12 +59,14 @@ The exact method will vary depending on your OS.
 - Click `Test Connection`. This should say "Connected to Fulcrum"
 
 ## Restart in Testnet Mode
+
 - Go to Tools->Restart in Testnet to be able to interact with Mutinynet wallets.
 
 ## Create a wallet and send some transactions
+ 
 - Your CLN node can be used as a second on-chain mutinynet wallet
 - You can also send to your fellow mutinynet users
-
+<br></br>
 - [ ] Install Fulcrum
 - [ ] Create an SSH tunnel to your Fulcrum instance
 - [ ] Connect Sparrow Desktop to your Fulcrum instance

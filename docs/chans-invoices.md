@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Chans Invoices"
-order: 5
+sidebar_position: 5
 ---
 
 

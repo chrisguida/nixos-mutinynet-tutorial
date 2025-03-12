@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Bonus Zeus"
-order: 9
+sidebar_position: 9
 ---
 
 
@@ -102,6 +101,8 @@ For the purposes of this section, Tailscale is fine. Go ahead and [create an acc
 - In the `Host` field, erase the .onion URL and put your server's Tailscale IP address (you can find this with `tailscale status`)
 - Click Save node config
 - Congrats, now you can control your node on the go, without having to deal with Tor's latency and reliability issues!
+
+<br></br>
 
 - [ ] Install Zeus and Tailscale
 - [ ] Create two node connections in Zeus, one for Tor and one for Tailscale
