@@ -1,8 +1,0 @@
-title: "NixOS MutinyNet Tutorial"
-baseurl: "/nixos-mutinynet-tutorial"
-permalink: /:path/
-theme: jekyll-theme-cayman # or choose any GitHub Pages-supported theme
-markdown: kramdown
-collections:
-  tutorial:
-    output: true

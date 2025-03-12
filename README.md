@@ -1,1 +1,1 @@
-_tutorial/01-intro.md
+./docs/intro.md
