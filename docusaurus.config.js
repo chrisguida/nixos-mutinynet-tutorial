@@ -126,12 +126,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/chrisguida/tiny-lightning-node-tutorial/',
+                href: 'https://github.com/chrisguida/nixos-mutinynet-tutorial/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Tiny Lightning Node Tutorial. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NixOS MutinyNet Tutorial. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
