@@ -66,26 +66,50 @@ const config = {
           {
             title: 'Docs',
             items: [
-              // {
-              //   label: 'Introduction',
-              //   to: '/',
-              // },
-              // {
-              //   label: 'Initialization',
-              //   to: '/initialization',
-              // },
-              // {
-              //   label: 'Lightning Node',
-              //   to: '/node',
-              // },
-              // {
-              //   label: 'Lightning Hub',
-              //   to: '/hub',
-              // },
-              // {
-              //   label: 'Point-of-sale App',
-              //   to: '/point-of-sale',
-              // },
+              {
+                label: 'Intro',
+                to: '/',
+              },
+              {
+                label: 'Init',
+                to: '/init',
+              },
+              {
+                label: 'Bitcoind',
+                to: '/bitcoind',
+              },
+              {
+                label: 'Cln',
+                to: '/cln',
+              },
+              {
+                label: 'Chans Invoices',
+                to: '/chans-invoices',
+              },
+              {
+                label: 'Bonus RTL',
+                to: '/bonus-RTL',
+              },
+              {
+                label: 'Bonus Fulcrum',
+                to: '/bonus-Fulcrum',
+              },
+              {
+                label: 'Bonus Mempool',
+                to: '/bonus-Mempool',
+              },
+              {
+                label: 'Bonus Zeus',
+                to: '/bonus-Zeus',
+              },
+              {
+                label: 'Required Cleanup',
+                to: '/REQUIRED-CLEANUP',
+              },
+              {
+                label: 'Credits',
+                to: '/credits',
+              }
             ],
           },
           {
