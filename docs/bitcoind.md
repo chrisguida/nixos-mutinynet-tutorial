@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Bitcoind"
-order: 3
+sidebar_position: 3
 ---
 
 

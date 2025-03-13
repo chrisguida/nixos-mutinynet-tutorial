@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Init"
-order: 2
+sidebar_position: 2
 ---
 
 

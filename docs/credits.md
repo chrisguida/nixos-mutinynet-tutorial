@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Credits"
-order: 11
+sidebar_position: 11
 ---
 
 
@@ -13,13 +12,13 @@ order: 11
 https://github.com/fort-nix/nix-bitcoin
 
 ### The Mutiny Wallet team / The Mutinynet project
-https://mutinywallet.com<br>
+https://mutinywallet.com<br></br>
 https://mutinynet.com
 
 ### Justinas
 - Thanks for writing a [great tutorial on Morph and Terraform](https://justinas.org/nixos-in-the-cloud-step-by-step-part-1)
 
-https://github.com/justinas<br>
+https://github.com/justinas<br></br>
 
 ### HashiCorp / Terraform
 - Thanks for writing a [great DigitalOcean deployment tool](https://www.terraform.io/).
@@ -31,7 +30,7 @@ https://github.com/justinas<br>
 - Thanks for showing me the [tutorial that made this workshop possible](https://justinas.org/nixos-in-the-cloud-step-by-step-part-1)
 - Also thanks for organizing the excellent [btc++ conference](https://btcplusplus.dev)
 
-https://github.com/niftynei<br>
+https://github.com/niftynei<br></br>
 https://x.com/niftynei
 
 ### Bitcoin y Lightning GDL

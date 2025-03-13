@@ -1,13 +1,13 @@
 ---
-layout: default
 title: "Intro"
-order: 1
+sidebar_position: 1
+slug: /
 ---
 
 
 #  Deploying Your First NixOS Machine
 
-Speaker: [Chris Guida](https://github.com/chrisguida)<br>
+Speaker: [Chris Guida](https://github.com/chrisguida) <br></br>
 Twitter: [@cguida6](https://x.com/cguida6)
 
 Welcome! 

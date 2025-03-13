@@ -1,7 +1,6 @@
 ---
-layout: default
 title: "Required Cleanup"
-order: 10
+sidebar_position: 10
 ---
 
 
